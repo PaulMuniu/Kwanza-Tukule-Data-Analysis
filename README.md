@@ -1,5 +1,5 @@
 # KWANZA TUKULE DATA ANALYSIS.
-![front_image](images/image1.jpg)
+![front_image](Images/image1.jpg)
 ## Project Overview  
 I completed this project as part of the **Kwanza Tukule Data Analyst Assessment**. It involves analyzing anonymized sales data, providing insights, and creating a **dashboard** for visualization. The goal is to help **street food vendors and kiosks in low-income areas** access affordable and nutritious food by improving **sales performance analysis, customer segmentation, and demand forecasting**.  
 
@@ -19,7 +19,7 @@ The dataset consists of anonymized sales transactions, including:
 ✔ Top-performing Products and categories   
 ✔ Business performance comparison  
 
-![plot](images/newplot.png)
+![plot](Images/newplot.png)
 ### 2️⃣ **Customer Segmentation**  
 ✔ Grouped businesses into **High Value, Medium Value, and Low Value** segments  
 ✔ Used **K-Means clustering** to analyze purchasing patterns  
